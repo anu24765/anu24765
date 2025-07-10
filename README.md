@@ -1,8 +1,9 @@
-👋 Hi, I’m Anubhav – a developer passionate about building useful tools and learning through code.
-💻 I work with Python, JavaScript, and open-source libraries.
-🚀 Exploring web development, machine learning, and automation.
-📚 Always experimenting, building, and leveling up.
-🌱 Let’s collaborate on meaningful projects!
+- 👋 Hi, I’m Anubhav – a developer passionate about building useful tools and learning through code.  
+- 💻 I work with Python, JavaScript, and open-source libraries.  
+- 🚀 Exploring web development, machine learning, and automation.  
+- 📚 Always experimenting, building, and leveling up.  
+- 🌱 Let’s collaborate on meaningful projects!
+
 
 
 
