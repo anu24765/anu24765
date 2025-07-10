@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @anu24765
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me ..
+👋 Hi, I’m Anubhav – a developer passionate about building useful tools and learning through code.
+💻 I work with Python, JavaScript, and open-source libraries.
+🚀 Exploring web development, machine learning, and automation.
+📚 Always experimenting, building, and leveling up.
+🌱 Let’s collaborate on meaningful projects!
+
+
 
 <!---
 anu24765/anu24765 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
